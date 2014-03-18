@@ -1,0 +1,18 @@
+{
+	"name": 		"S3",
+	"description": 	"Simple Static Server",
+	"version":		"1.0.0",
+	"dependencies": {
+		"mongodb":		"latest",
+		"underscore":	"latest",
+		"request":		"latest",
+		"facebook-api":	"latest",
+		"twig": 		"*",
+		"moment":		"latest",
+		"express":		"latest",
+		"twig": 		"*",
+		"toolset": 		"latest",
+		"mime": 		"latest"
+	}
+}
+

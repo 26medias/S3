@@ -1,0 +1,9 @@
+{
+	"port":		85,
+	"webdir":	"C:\\xampp\\htdocs\\git\\MeanPrototyper\\projects\\origin\\www",
+	"index":	[
+		"index.html",
+		"main.html"
+	],
+	"listFiles":	true
+}
